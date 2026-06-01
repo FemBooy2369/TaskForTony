@@ -1,0 +1,13 @@
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.sln
+*.slnx
+*.tmp
+*.log
+.DS_Store
